@@ -1,0 +1,13 @@
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\Maps.exe.config
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\Maps.exe
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\Maps.pdb
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\EntityFramework.dll
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\EntityFramework.xml
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\садыковаа\source\repos\Maps\Maps\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\садыковаа\source\repos\Maps\Maps\obj\Debug\Maps.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\source\repos\Maps\Maps\obj\Debug\Maps.csproj.CoreCompileInputs.cache
+c:\users\садыковаа\source\repos\Maps\Maps\obj\Debug\Maps.csproj.CopyComplete
+c:\users\садыковаа\source\repos\Maps\Maps\obj\Debug\Maps.exe
+c:\users\садыковаа\source\repos\Maps\Maps\obj\Debug\Maps.pdb
